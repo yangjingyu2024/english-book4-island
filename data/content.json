@@ -1,0 +1,1661 @@
+{
+  "site": {
+    "title": "國中英語第四冊 複習小宇宙",
+    "slug": "english-book4-island",
+    "tagline": "一座星島，一個核心文法，航向會考英語滿分銀河。",
+    "author": "小羊兒老師（英語科教學團隊）",
+    "contact": "",
+    "audience": "國中八年級學習者與會考複習學生",
+    "language": "zh-TW",
+    "mascot": {
+      "name": "小羊兒老師",
+      "description": "戴著圓框眼鏡、身穿粉紅襯衫與牛仔褲，熱愛英語教學與星際備課探險的小羊兒老師"
+    },
+    "certificate": {
+      "sealText": "英語第四冊精熟紀念"
+    }
+  },
+  "center": {
+    "name": "國中英語第四冊 複習小宇宙",
+    "role": "星際指揮總部 · 總複習島",
+    "description": "掌握國中英語第四冊八大文法星系地圖、進行跨課輪抽總複習，查看學習進度並領取紀念證書。",
+    "blocks": [
+      {
+        "title": "歡迎登陸國中英語第四冊複習小宇宙",
+        "text": "歡迎來到「國中英語第四冊 複習小宇宙」！\n國中英語第四冊是決定會考語法實力的黃金分水嶺。在本冊課程中，句子結構全面升級，從形容詞／副詞的三級比較變化，跨越到「連綴、使役、感官」三大特殊動詞句型，並進階學習「反身代名詞與數量不定代名詞」、「that 名詞子句與 Although／if 邏輯句構」，以及會考年年必出的「附加問句」。"
+      },
+      {
+        "title": "八大星系文法航線總覽",
+        "text": "本複習小宇宙涵蓋國中英語第四冊 L1～L6 全冊關鍵考點，分為四大星際航段：\n1. 比較與修飾星區（L1～L3）：\n   • 第 1 站「極限比較星」：掌握規則與不規則比較級／最高級、可數 fewer vs. 不可數 less，以及比較級修飾語。\n   • 第 2 站「感官連綴星」：辨析連綴動詞＋形容詞／＋like＋名詞鐵律，避開加副詞陷阱，區分 look 與 look at。\n   • 第 3 站「極速副詞星」：熟記情態副詞變化、形副同形字與易混詞組（hard vs. hardly），掌握副詞比較與最高級。\n2. 動詞魔法與代名詞星區（L3～L5）：\n   • 第 4 站「超能使役星」：征服使役動詞 make/have/let＋受詞＋原形 VR、否定 not VR 與 ask/tell ＋ to VR 差異。\n   • 第 5 站「全知感官星」：精準切換感官動詞 VR（全過程）與 V-ing（進行中），並搞懂數量代名詞單複數動詞搭配。\n   • 第 6 站「鏡像反身星」：掌握八大反身代名詞主受同體原則、by oneself／enjoy oneself 等五大高頻片語。\n3. 句構與邏輯星區（L5～L6）：\n   • 第 7 站「邏輯星門島」：釐清 that 引導受詞與虛主詞 It 句型、Although 不配 but 鐵律，以及 if 條件句現在代未來。\n   • 第 8 站「迴響問句星」：秒殺前肯後否原則、否定詞 never/seldom 與五大特殊附加問句（Let's/祈使句/I am/Everyone/have to）。"
+      },
+      {
+        "title": "星際探險指南與精熟紀念證書",
+        "text": "每一座星島代表一個精選文法專題，你可以透過 3D 宇宙地圖或左側導覽清單自由航行：\n1. 點擊星島可聚焦縮放，欣賞星球上空的閃耀金星與環島漫步夥伴，再點擊主建築即可開啟該星站的精編教材、對比表與考前心法。\n2. 點擊中央「星際指揮總部」主建築可進入可旋轉的 3D 備課室（牆面掛有小羊兒老師專屬插畫壁畫），點選室內的「小羊兒老師」開啟廣場總覽與跨課總複習。\n3. 每座星島均設有 4 題自編精選測驗（共 32 題）並附詳細解析；中央星島提供跨課輪抽總複習（每輪各島抽 1 題，共 8 題）。當全部 8 課皆標記已讀且每課測驗最高分達 75% 以上，即可在中央廣場輸入姓名，領取專屬的「國中英語第四冊 複習小宇宙」紀念證書！"
+      }
+    ]
+  },
+  "themes": {
+    "style": "星際探索",
+    "font": "手寫感",
+    "primary": "#664d8b",
+    "accent": "#8d4d24",
+    "backgrounds": [
+      {
+        "name": "晨光",
+        "background": "#f0edf9",
+        "default": true
+      },
+      {
+        "name": "海霧",
+        "background": "#d7d2e9",
+        "default": false
+      },
+      {
+        "name": "夜海",
+        "background": "#201c40",
+        "default": false
+      }
+    ]
+  },
+  "speaker": {
+    "name": "島主小羊兒老師",
+    "alias": "線上焰兒研習結業 · 英語科星際備課實踐者",
+    "image": "assets/teacher-avatar.jpg",
+    "education": "經黃泓諺（紅焰／焰兒）老師線上焰兒研習結業，獲得 teaching-dream-island Skill 實作完成",
+    "teaching": "國中英語第四冊八大核心文法、素養導向評量與 3D 互動星系教材設計",
+    "administration": "特別致謝：感謝黃泓諺（紅焰／焰兒）老師無私指導與分享教學夢幻島 Skill",
+    "current": [
+      "小羊兒老師經黃泓諺老師線上焰兒研習結業後獲得 Skill 製作完成本網站",
+      "國中英語第四冊 L1～L6 八大文法星系與自編會考題庫研發"
+    ]
+  },
+  "editorialNote": "本網站由小羊兒老師經黃泓諺（紅焰／焰兒）老師線上焰兒研習結業後獲得 Skill 製作完成，特別感謝黃泓諺老師！教材內容依據國中英語第四冊核心課綱及複習題庫編寫，隨堂測驗題目均附詳細解析。",
+  "appearance": {
+    "theme": "space",
+    "label": "星際探索",
+    "colors": {}
+  },
+  "courses": [
+    {
+      "order": 1,
+      "id": "island-01",
+      "name": "極限比較星",
+      "group": "比較與修飾星區",
+      "intro": "掌握第四冊 L1 形容詞比較級與最高級規則變化、不規則字彙，以及可數與不可數比較句型。",
+      "goal": "能正確判斷原級、比較級、最高級時機，並分辨 fewer／less、latest／last 與修飾副詞用法。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "單音節、多音節及必考不規則比較級與最高級完整變化",
+        "原級 as...as、比較級 than、雙重比較 The 比較級..., the 比較級...",
+        "修飾比較級五寶（much / even / a lot / far / a little）與 fewer vs. less"
+      ],
+      "extra": "會考陷阱提醒：絕不可寫 very better！修飾比較級要用 much / even / far / a lot / a little。",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L1",
+        "比較級",
+        "最高級",
+        "fewer",
+        "less"
+      ],
+      "comparison": {
+        "title": "形容詞比較級／最高級規則與會考陷阱對照表",
+        "headers": [
+          "變化類型",
+          "原級",
+          "比較級",
+          "最高級",
+          "必考細節與陷阱"
+        ],
+        "rows": [
+          [
+            "單音節／短母音字尾",
+            "tall / big",
+            "taller / bigger",
+            "tallest / biggest",
+            "短母音＋單子音重複字尾（hot→hotter）"
+          ],
+          [
+            "子音＋y 結尾",
+            "happy / busy",
+            "happier / busier",
+            "happiest / busiest",
+            "去 y 改 i 加 er / est"
+          ],
+          [
+            "多音節（雙音節以上）",
+            "expensive / popular",
+            "more expensive",
+            "most expensive",
+            "不可與字尾 -er/-est 重複使用"
+          ],
+          [
+            "不規則重點（品質／數量）",
+            "good / bad / little",
+            "better / worse / less",
+            "best / worst / least",
+            "the least 表最不…；fewer ＋可數複數"
+          ],
+          [
+            "易混序列字（late / far）",
+            "late / far",
+            "later / farther (further)",
+            "the latest (最新的) / the last (最後的)",
+            "the latest movie 最新電影；the last train 末班車"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "規則與不規則比較級／最高級變化",
+          "text": "在進行人事物比較時，須依字彙音節決定變化方式：\n1. 單音節字尾直接加 -er / -est（tall → taller → tallest）；單音節且字尾為「短母音＋單子音」時先重複字尾（big → bigger → biggest）；「子音＋y」結尾須去 y 改 ier / iest（easy → easier → easiest）。\n2. 多數雙音節與三音節以上形容詞，於字前加 more / the most（careful → more careful → the most careful）。\n3. 必考不規則變化：\n   • good / well → better → best\n   • bad / badly / ill → worse → worst\n   • many / much → more → most\n   • little → less → least（表「較少」，只修飾不可數名詞；可數名詞的少要用 few → fewer → fewest！）\n   • late → later（較晚）／the latest（最新的）vs. the last（最後的／上一回）\n   • far → farther / farthest（距離更遠）vs. further / furthest（程度進一步）"
+        },
+        {
+          "title": "原級、比較級與最高級四大必考句型",
+          "text": "1. 原級同等比較：「A ＋ be/V ＋ as ＋ 形容詞／副詞原級 ＋ as ＋ B」表兩者一樣；否定為 not as/so...as。\n2. 比較級五大黃金構造：\n   • 基本式：「比較級 ＋ than」（可數少：fewer ＋ 複數名詞 ＋ than；不可數少：less ＋ 不可數名詞 ＋ than）。\n   • 加強語氣：只可用 much / even / far / a lot / a little 修飾比較級，絕對不可用 very！\n   • 愈來愈…：「比較級 and 比較級」（getting better and better，越來越好了）。\n   • 愈…就愈…：「The ＋ 比較級..., the ＋ 比較級...」（The harder you study, the higher grades you will get.）。\n   • 比較級表達最高級：「比較級 ＋ than any other ＋ 單數名詞」（比其他任何一個都更…）。\n3. 最高級用法：「the ＋ 最高級 ＋ of all / in ＋ 團體範圍」；若要說「最…之一」，使用「one of the ＋ 最高級 ＋ 複數名詞」！注意比較「兩者之間哪個較…」用「the ＋ 比較級 ＋ of the two」。"
+        }
+      ],
+      "prompts": [
+        "請同學在腦中練習一個造句：把你最喜歡的兩種科目做比較（用上 much ＋ 比較級 ＋ than），再想想「我們班上最新話題是什麼（the latest...）」。"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-01-q1",
+          "question": "Julie has ten pencils. Mary has twelve pencils, and Dora has thirty. Julie has ________ pencils than Mary or Dora.",
+          "options": [
+            {
+              "id": "a",
+              "text": "less"
+            },
+            {
+              "id": "b",
+              "text": "fewer"
+            },
+            {
+              "id": "c",
+              "text": "the least"
+            },
+            {
+              "id": "d",
+              "text": "the fewest"
+            }
+          ],
+          "answer": "b",
+          "explanation": "句中有 than 表示兩組相比，須用比較級；且 pencils 為「可數複數名詞」，表達數量較少應使用 fewer than（less 用於不可數名詞）。"
+        },
+        {
+          "id": "island-01-q2",
+          "question": "Hurry up! It is the ________ bus tonight. If we miss it, we will have to walk home.",
+          "options": [
+            {
+              "id": "a",
+              "text": "last"
+            },
+            {
+              "id": "b",
+              "text": "later"
+            },
+            {
+              "id": "c",
+              "text": "least"
+            },
+            {
+              "id": "d",
+              "text": "latest"
+            }
+          ],
+          "answer": "a",
+          "explanation": "後句提到「錯過就必須走路回家」，說明這是今晚的「末班車／最後一班（the last bus）」；latest 意指「最新的」，語意不符。"
+        },
+        {
+          "id": "island-01-q3",
+          "question": "With good practice, Kevin's English is getting ________, and he speaks ________ better than before.",
+          "options": [
+            {
+              "id": "a",
+              "text": "good and good; very"
+            },
+            {
+              "id": "b",
+              "text": "well and well; too"
+            },
+            {
+              "id": "c",
+              "text": "better and better; much"
+            },
+            {
+              "id": "d",
+              "text": "best and best; so"
+            }
+          ],
+          "answer": "c",
+          "explanation": "「越來越…」使用「比較級 and 比較級」（better and better）；修飾比較級 better 只可用 much / even / far / a lot / a little，不可使用 very/too/so。"
+        },
+        {
+          "id": "island-01-q4",
+          "question": "Harry enjoys going to see the ________ movies, and there is an exciting new one coming out this Friday.",
+          "options": [
+            {
+              "id": "a",
+              "text": "last"
+            },
+            {
+              "id": "b",
+              "text": "less"
+            },
+            {
+              "id": "c",
+              "text": "least"
+            },
+            {
+              "id": "d",
+              "text": "latest"
+            }
+          ],
+          "answer": "d",
+          "explanation": "由後句「這週五有令人期待的新片即將上映」可知 Harry 喜歡看「最新的（the latest）」電影。"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "island-02",
+      "name": "感官連綴星",
+      "group": "感官與狀態星區",
+      "intro": "釐清五大感官連綴動詞與狀態轉換／維持動詞，抓住「＋形容詞」與「＋like＋名詞」兩大鐵律。",
+      "goal": "能區分連綴動詞（＋形容詞）與一般動作動詞（＋副詞）的詞性判斷，不再被中文翻譯騙倒。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "五大感官連綴（look, sound, smell, taste, feel）與狀態動詞（become, get, turn, grow, keep, stay）",
+        "句型雙軌：連綴動詞 ＋ 形容詞 vs. 連綴動詞 ＋ like ＋ 名詞",
+        "超高頻易混題：look happy（看起來開心）vs. look angrily at（生氣地盯著看）"
+      ],
+      "extra": "看到連綴動詞先停一秒：後面單純接一個詞時，選「形容詞」；有出現名詞才補上 like！",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L2",
+        "連綴動詞",
+        "感官連綴",
+        "look like",
+        "tastes"
+      ],
+      "comparison": {
+        "title": "連綴動詞（狀態描述）vs. 一般動作動詞比較表",
+        "headers": [
+          "文法結構",
+          "常見代表動詞",
+          "後方接續詞性",
+          "正確例句",
+          "會考常見誤區"
+        ],
+        "rows": [
+          [
+            "感官連綴（表狀態）",
+            "look, sound, smell, taste, feel",
+            "＋ 形容詞（adj.）",
+            "The soup tastes delicious.",
+            "不可寫 tastes deliciously"
+          ],
+          [
+            "感官連綴（接名詞）",
+            "look, sound, smell, taste, feel",
+            "＋ like ＋ 名詞（N）",
+            "It sounds like a great idea.",
+            "名詞前忘記加 like（✕ looks a rainbow）"
+          ],
+          [
+            "變化與維持連綴",
+            "become, get, turn, grow, keep, stay",
+            "＋ 形容詞（或名詞）",
+            "Please keep warm in winter.",
+            "誤選 warmly 修飾 keep warm"
+          ],
+          [
+            "一般動作動詞（含介系詞）",
+            "look at / smell (去聞) / feel (去摸)",
+            "＋ 受詞 ＋ 副詞（adv.）",
+            "He looked angrily at the dog.",
+            "有受詞是「動作」，須用副詞 angrily 修飾"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "連綴動詞兩大家族（感官外觀與狀態轉換）",
+          "text": "英文中的連綴動詞就像一座橋樑，負責把「主詞」與後面的「主詞補語（形容詞或名詞）」連在一起：\n1. 五大感官連綴動詞：look（看起來）、sound（聽起來）、smell（聞起來）、taste（嘗起來）、feel（摸起來／感覺起來）。\n2. 狀態改變或維持類：become、get、turn、grow（變得…，如 turn red 變紅、get darker 變暗）；keep、stay（保持…，如 keep warm 保暖、stay healthy 保持健康）。注意這兩類維持動詞後接形容詞描述主詞狀態。"
+        },
+        {
+          "title": "「＋形容詞」鐵律與一般動作動詞的區分",
+          "text": "1. 連綴動詞後面必須直接接「形容詞」補充說明主詞，絕對不可接副詞！例：The coffee smells strong.（這杯咖啡聞起來很濃郁。）不可寫成 strongly；That idea sounds wonderful!（聽起來很棒）。\n2. 當連綴動詞後面要接「名詞」時，中間一定要加上介系詞 like（像…一樣）：It looks like a flying saucer.（它看起來像一艘飛碟。）、He sounds like his father.（他聽起來很像他爸爸。）；注意 become 後面可直接接名詞而不加 like（She became a doctor.）。\n3. 魔王級考點分辨：look vs. look at！當句型是 S + look + adj.（Tom looks angry. 看起來很生氣）時，look 是連綴動詞，配形容詞 angry；一旦出現受詞變成 look at N（Tom looked angrily at his brother. 生氣地瞪著弟弟看），此時「看」是實際發出的動作，就必須改用情態副詞 angrily 來修飾！"
+        }
+      ],
+      "prompts": [
+        "請試著用今天所學的句型造兩句話：一句描述你今天吃到的食物（The food tastes...），另一句猜猜雲朵像什麼（The cloud looks like...）。"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-02-q1",
+          "question": "It's getting very cold outside. Remember to wear a thick coat to keep ________.",
+          "options": [
+            {
+              "id": "a",
+              "text": "warmly"
+            },
+            {
+              "id": "b",
+              "text": "warm"
+            },
+            {
+              "id": "c",
+              "text": "to warm"
+            },
+            {
+              "id": "d",
+              "text": "more warmly"
+            }
+          ],
+          "answer": "b",
+          "explanation": "keep 在此作連綴動詞「保持…的狀態」，後方必須直接接形容詞 warm，絕不可接副詞 warmly。"
+        },
+        {
+          "id": "island-02-q2",
+          "question": "Look at that colorful bridge in the sky! It ________ a giant rainbow.",
+          "options": [
+            {
+              "id": "a",
+              "text": "looks"
+            },
+            {
+              "id": "b",
+              "text": "looks happily"
+            },
+            {
+              "id": "c",
+              "text": "looks like"
+            },
+            {
+              "id": "d",
+              "text": "sounds"
+            }
+          ],
+          "answer": "c",
+          "explanation": "空格後方是名詞詞組 a giant rainbow（一條巨大的彩虹），感官連綴動詞接名詞須使用「look + like + 名詞」。"
+        },
+        {
+          "id": "island-02-q3",
+          "question": "The baked apple pie in the kitchen smelled so ________ that every student wanted a piece.",
+          "options": [
+            {
+              "id": "a",
+              "text": "wonderful"
+            },
+            {
+              "id": "b",
+              "text": "wonderfully"
+            },
+            {
+              "id": "c",
+              "text": "like great"
+            },
+            {
+              "id": "d",
+              "text": "happily"
+            }
+          ],
+          "answer": "a",
+          "explanation": "smell 在此為連綴動詞「聞起來…」，後面只接單獨描述主詞性質的形容詞 wonderful；like 後須接名詞而非形容詞 great。"
+        },
+        {
+          "id": "island-02-q4",
+          "question": "Wayne looked ________ at his broken robot and couldn't say a word for minutes.",
+          "options": [
+            {
+              "id": "a",
+              "text": "sad"
+            },
+            {
+              "id": "b",
+              "text": "like sad"
+            },
+            {
+              "id": "c",
+              "text": "sadness"
+            },
+            {
+              "id": "d",
+              "text": "sadly"
+            }
+          ],
+          "answer": "d",
+          "explanation": "本句結構為「look at + 受詞（his broken robot）」，意指「傷心地看著壞掉的機器人」，look at 為一般動作動詞片語，須用副詞 sadly 修飾。"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "island-03",
+      "name": "極速副詞星",
+      "group": "比較與修飾星區",
+      "intro": "掌握情態副詞（Manner Adverbs）字尾變化、形副同形字、常見陷阱詞與副詞比較級／最高級句型。",
+      "goal": "能分辨形容詞（修飾名詞）與副詞（修飾動作），並正確使用 well / fast / hard / more slowly 等比較形式。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "形容詞轉副詞規則：+ly、子音+y→ily、le去e+y 與特殊形 good→well",
+        "形副同形組與假副詞陷阱（fast/hard/early/late vs. friendly/hardly/lately）",
+        "情態副詞的三級比較：more carefully vs. faster vs. the most slowly"
+      ],
+      "extra": "看到 friendly / lovely / lonely 別被字尾騙囉！名詞 ＋ ly 其實是「形容詞」，不是副詞！",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L3",
+        "情態副詞",
+        "副詞",
+        "hardly",
+        "well"
+      ],
+      "comparison": {
+        "title": "易混形容詞與副詞字組速查對照表",
+        "headers": [
+          "形容詞",
+          "對應情態副詞",
+          "比較級／最高級",
+          "常見會考混淆字（不同字義！）",
+          "辨析口訣"
+        ],
+        "rows": [
+          [
+            "good (好的)",
+            "well (好地)",
+            "better / (the) best",
+            "well 當形容詞表「氣色健康」",
+            "She plays tennis well.（動詞用 well）"
+          ],
+          [
+            "hard (努力的／困難的)",
+            "hard (努力地／猛烈地)",
+            "harder / (the) hardest",
+            "hardly（頻率副詞：幾乎不）",
+            "work hard 是努力；hardly work 變幾乎不工作"
+          ],
+          [
+            "late (晚的／遲到的)",
+            "late (晚地)",
+            "later / latest (或 last)",
+            "lately（時間副詞：最近）",
+            "get up late 晚起；lately 只配完成式/現在"
+          ],
+          [
+            "fast / early (快的/早的)",
+            "fast / early (形副同形)",
+            "faster / earlier (fastest / earliest)",
+            "不可寫 fastly！",
+            "run fast / arrive early 都不用加 ly"
+          ],
+          [
+            "careful / slow",
+            "carefully / slowly",
+            "more carefully / (the) most slowly",
+            "friendly / lovely 是形容詞！",
+            "-ly 副詞比較級不可加 -er，前面加 more"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "形容詞變身情態副詞的五大規則",
+          "text": "情態副詞主要用來說明「動作是如何發生的（how）」，負責修飾一般動詞、形容詞、另一副詞或整句話：\n1. 一般規則字：字尾直接加 -ly（quiet → quietly、careful → carefully）。\n2. 子音＋y 結尾：去 y 改 i 加 -ly（happy → happily、heavy → heavily）。\n3. 子音＋le 結尾：去 e 直接加 y（terrible → terribly、comfortable → comfortably）。\n4. 形副同形（絕對不加 -ly！）：fast（快）、hard（努力地／猛烈地）、early（早）、late（晚）、high（高）以上字詞同時是形容詞也是副詞！特別注意沒有 fastly 這個字。\n5. 特殊變化與字形大陷阱：\n   • good（形容詞）→ well（副詞）\n   • hardly（幾乎不，具否定意味）與 hard（努力地）意思完全相反！\n   • lately（最近）與 late（晚、遲到）語意不同！\n   • friendly（親切的）、lovely（可愛的）、lonely（寂寞的）是名詞＋ly 構成，詞性仍是「形容詞」。"
+        },
+        {
+          "title": "副詞擺放位置與比較級／最高級句型",
+          "text": "1. 副詞位置鐵律：及物動詞如果有受詞，情態副詞必須放在「受詞之後」，不能插在動詞與受詞之間！例：He closed the door quietly.（不能寫 He closed quietly the door.）。\n2. 副詞三級比較句型：\n   • 原級：as ＋ 副詞原級 ＋ as（如：No one else can play as well as she does.）。\n   • 比較級：多數 -ly 結尾副詞採「more ＋ 副詞 ＋ than」（more slowly than）；形副同形與單音節副詞採「-er ＋ than」（runs faster than I do）。\n   • 最高級：「(the) ＋ most ＋ 副詞」（Eric crossed the finish line the most slowly.），副詞最高級前面的 the 在口語常省略，但測驗選項辨析時仍常保留 the most + adv.，並注意絕不能使用形容詞 slowest 去修飾動詞 ran。"
+        }
+      ],
+      "prompts": [
+        "請試著在心裡區分這兩個句子：He studied hard for the exam. 和 He hardly studied for the exam. 究竟誰會考得比較好？"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-03-q1",
+          "question": "Ivy plays the piano best in her school. No one else in town can play as ________ as she does.",
+          "options": [
+            {
+              "id": "a",
+              "text": "well"
+            },
+            {
+              "id": "b",
+              "text": "good"
+            },
+            {
+              "id": "c",
+              "text": "better"
+            },
+            {
+              "id": "d",
+              "text": "best"
+            }
+          ],
+          "answer": "a",
+          "explanation": "句型「as ＋ 原級 ＋ as」只能放原級，且空格用來修飾一般動詞 play，必須使用情態副詞 well（good 是形容詞）。"
+        },
+        {
+          "id": "island-03-q2",
+          "question": "Eric got to the finish line last in today's race. He ran ________ of all the runners.",
+          "options": [
+            {
+              "id": "a",
+              "text": "the slowest"
+            },
+            {
+              "id": "b",
+              "text": "the most slowly"
+            },
+            {
+              "id": "c",
+              "text": "more slowly"
+            },
+            {
+              "id": "d",
+              "text": "the most slow"
+            }
+          ],
+          "answer": "b",
+          "explanation": "範圍為「of all the runners（所有跑者之中）」需用最高級；且修飾一般動詞 ran 必須選用副詞，slowly 的最高級為 the most slowly。"
+        },
+        {
+          "id": "island-03-q3",
+          "question": "Although the math problem was difficult, Mia studied ________ and finally solved it.",
+          "options": [
+            {
+              "id": "a",
+              "text": "hardly"
+            },
+            {
+              "id": "b",
+              "text": "hardest"
+            },
+            {
+              "id": "c",
+              "text": "hard"
+            },
+            {
+              "id": "d",
+              "text": "fastly"
+            }
+          ],
+          "answer": "c",
+          "explanation": "語意為「Mia 努力讀書並終於解出難題」。「努力地」副詞是形副同形的 hard；hardly 是「幾乎不」，語意相反；英文中不存在 fastly。"
+        },
+        {
+          "id": "island-03-q4",
+          "question": "After practicing for three months, Ben now speaks English much ________ than before.",
+          "options": [
+            {
+              "id": "a",
+              "text": "clear"
+            },
+            {
+              "id": "b",
+              "text": "clearer"
+            },
+            {
+              "id": "c",
+              "text": "clearly"
+            },
+            {
+              "id": "d",
+              "text": "more clearly"
+            }
+          ],
+          "answer": "d",
+          "explanation": "空格修飾動作動詞 speaks 且後方有 than 與 much，須選用副詞比較級；clearly 為 -ly 副詞，比較級為 more clearly。"
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "island-04",
+      "name": "超能使役星",
+      "group": "動詞魔法星區",
+      "intro": "掌握三大真使役動詞 make / have / let 後方「原形動詞 VR」鐵律，並與 help、ask / tell / want 精準區分。",
+      "goal": "能分辨「叫／要求」背後的文法句型，寫對 ＋ 受詞 ＋ (not) VR 與 ＋ 受詞 ＋ (not) to VR。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "三大使役動詞（make / have / let）＋ 受詞 ＋ (not) VR 鐵律",
+        "help ＋ 受詞 ＋ (to) VR（不定詞 to 可留可省）",
+        "一般要求類動詞（ask / tell / want / order）＋ 受詞 ＋ (not) to VR"
+      ],
+      "extra": "不是看到「叫某人做…」全都用原形！只有 make / have / let（以及 get 不一樣，get 要加 to！）要注意誰必須帶 to。",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L3",
+        "使役動詞",
+        "make",
+        "have",
+        "let"
+      ],
+      "comparison": {
+        "title": "使役動詞 vs. help vs. 一般動詞受詞補語對照表",
+        "headers": [
+          "動詞家族",
+          "核心成員",
+          "肯定受詞補語",
+          "否定受詞補語",
+          "會考經典例句"
+        ],
+        "rows": [
+          [
+            "真使役動詞",
+            "make / have / let",
+            "＋ 受詞 ＋ 原形 VR",
+            "＋ 受詞 ＋ not VR",
+            "Dad had me not play video games."
+          ],
+          [
+            "幫忙動詞（雙棲）",
+            "help",
+            "＋ 受詞 ＋ (to) VR",
+            "常改用其他否定表現",
+            "Can you help me (to) carry this box?"
+          ],
+          [
+            "一般要求／希望",
+            "ask / tell / want / order / need / get",
+            "＋ 受詞 ＋ to VR",
+            "＋ 受詞 ＋ not to VR",
+            "Mom asked me not to stay out late."
+          ],
+          [
+            "make 特殊補充",
+            "make ＋ 受詞 ＋ 形容詞",
+            "＋ adj.（表使某人感到…）",
+            "被動語態須還原 to VR",
+            "The movie made us happy. / He was made to wait."
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "三天使役動詞（make / have / let）核心規則",
+          "text": "英文裡有三個表「使／叫／讓某人做某事」的標準使役動詞，語氣與句型如下：\n1. make（強迫、要求使某人做…，語氣最強）、have（要求、安排、請某人做…）、let（允許、讓某人做…）。\n2. 核心句型：「主詞 ＋ make / have / let ＋ 受詞 ＋ 原形動詞 (VR)」。\n   • 例：The coach made the players run five kilometers.（教練要求選手跑五公里。）\n   • 否定變化（超高頻考點）：不可加 don't / didn't，也不可以加 to！直接在原形動詞前加 not：「make / have / let ＋ 受詞 ＋ not ＋ VR」！例：Mrs. Lin had her son not play computer games too much.\n3. make 的加分延伸句型：\n   • 「make ＋ 受詞 ＋ 形容詞」表示使受詞產生某種狀態或情緒：The good news made everyone excited.\n   • 若整句改為被動語態，原本省略的 to 必須「還原」：We were made to clean the classroom."
+        },
+        {
+          "title": "help 與 ask / tell / want 的關鍵分界",
+          "text": "很多同學一背熟「叫某人做某事要接 VR」，就會不小心把所有動詞都接原形，這是會考最常設計的陷阱！請畫出清楚界線：\n1. 「help ＋ 受詞 ＋ (to) VR」：幫忙做某事時，後面的不定詞 to「寫出來或省略都可以」，兩種皆為文法正確。例：Tim helped his sister (to) finish her math homework.\n2. 「ask / tell / want / need / order ＋ 受詞 ＋ (not) to VR」：這群雖然中文也翻譯為「要求／告訴／想要某人做…」，但在文法上它們不是三大使役動詞，因此後面「必須寫出完整的 to VR」！\n   • 肯定例：The teacher told us to read the instructions carefully.\n   • 否定例：Mom asked me not to eat too much junk food.（否定詞 not 一樣要放在 to 的前面！）"
+        }
+      ],
+      "prompts": [
+        "請同學在腦中練習轉換同一個意思：「媽媽叫我準時回家」，試著分別用 Mom made me... 與 Mom told me... 寫出完全正確的受詞補語！"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-04-q1",
+          "question": "Mrs. Lin had her son ________ video games before finishing all his school homework.",
+          "options": [
+            {
+              "id": "a",
+              "text": "don't play"
+            },
+            {
+              "id": "b",
+              "text": "not play"
+            },
+            {
+              "id": "c",
+              "text": "not to play"
+            },
+            {
+              "id": "d",
+              "text": "to not play"
+            }
+          ],
+          "answer": "b",
+          "explanation": "had（have 的過去式）為三大使役動詞之一，受詞後接否定補語時使用「not ＋ 原形動詞 VR」，不可加 to 或 don't。"
+        },
+        {
+          "id": "island-04-q2",
+          "question": "The funny cartoon made all the kids in the theater ________ happily.",
+          "options": [
+            {
+              "id": "a",
+              "text": "laugh"
+            },
+            {
+              "id": "b",
+              "text": "to laugh"
+            },
+            {
+              "id": "c",
+              "text": "laughing"
+            },
+            {
+              "id": "d",
+              "text": "laughed"
+            }
+          ],
+          "answer": "a",
+          "explanation": "使役動詞 made（make 的過去式）接受詞後，表動作補語須搭配原形動詞 laugh（VR）。"
+        },
+        {
+          "id": "island-04-q3",
+          "question": "Before the test started, the teacher asked all the students ________ with each other.",
+          "options": [
+            {
+              "id": "a",
+              "text": "not talk"
+            },
+            {
+              "id": "b",
+              "text": "don't talk"
+            },
+            {
+              "id": "c",
+              "text": "not to talk"
+            },
+            {
+              "id": "d",
+              "text": "didn't talk"
+            }
+          ],
+          "answer": "c",
+          "explanation": "ask 並非使役動詞，要求某人做或不做某事必須使用「ask ＋ 受詞 ＋ (not) to VR」，否定詞 not 置於 to 之前。"
+        },
+        {
+          "id": "island-04-q4",
+          "question": "These boxes are too heavy for me. Could you please help me ________ them to the classroom?",
+          "options": [
+            {
+              "id": "a",
+              "text": "carrying"
+            },
+            {
+              "id": "b",
+              "text": "carried"
+            },
+            {
+              "id": "c",
+              "text": "carries"
+            },
+            {
+              "id": "d",
+              "text": "carry"
+            }
+          ],
+          "answer": "d",
+          "explanation": "動詞 help 的句型為「help ＋ 受詞 ＋ (to) VR」，可接原形動詞 carry 或 to carry，選項中只有原形 carry 符合文法。"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "island-05",
+      "name": "全知感官星",
+      "group": "動詞魔法星區",
+      "intro": "掌握第四冊 L4 感官動詞後接 VR 與 V-ing 的時間焦點差異，同時攻克「數量不定代名詞＋of」單複數判定。",
+      "goal": "能分辨感官動詞受詞補語何時選 VR（完整過程／對等連接）、何時選 V-ing（正在進行），並判斷數量代名詞動詞單複數。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "七大感官動詞（see, watch, look at, hear, listen to, feel, notice）接 VR vs. V-ing",
+        "雙軌記憶：Look! / Listen! 或當下畫面偏向 V-ing；always / often 或 and 對等常配 VR",
+        "不定代名詞（One / Each / Both / Most / Some / All of the N）動詞單複數規則"
+      ],
+      "extra": "會考秒殺關鍵：看到感官動詞後面「絕對不能選 to VR」！選項有 to VR 先直接刪掉！",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L4",
+        "感官動詞",
+        "數量代名詞",
+        "V-ing",
+        "each of"
+      ],
+      "comparison": {
+        "title": "感官動詞補語 & 數量代名詞單複數判斷表",
+        "headers": [
+          "文法分類",
+          "核心字詞",
+          "搭配形式 / 動詞單複數",
+          "經典例句",
+          "解題判斷關鍵"
+        ],
+        "rows": [
+          [
+            "感官動詞（全過程）",
+            "see / watch / hear / feel / notice",
+            "＋ 受詞 ＋ 原形 VR",
+            "I saw Tom enter the room and sit down.",
+            "強調從頭到尾完整事實，或有 and 連接動作"
+          ],
+          [
+            "感官動詞（進行中）",
+            "see / watch / hear / listen to",
+            "＋ 受詞 ＋ V-ing",
+            "Listen! Do you hear Amy singing?",
+            "強調正在進行中的瞬間畫面（常有 Look/Listen）"
+          ],
+          [
+            "永遠接單數動詞",
+            "One / Each / Either / Neither + of",
+            "＋ 複數名詞 ＋ 單數動詞",
+            "Each of the students has a notebook.",
+            "主詞核心永遠是「每一個 / 任一個（單數）」"
+          ],
+          [
+            "永遠接複數動詞",
+            "Both / Several / Many / Two + of",
+            "＋ 複數名詞 ＋ 複數動詞",
+            "Both of my brothers like basketball.",
+            "兩個以上當然搭配複數動詞"
+          ],
+          [
+            "看後方名詞決定單複",
+            "All / Most / Some / Half / None + of",
+            "不可數 N → 單數；複數 N → 複數",
+            "Most of the soup tastes good.",
+            "of 後面的名詞決定一切，且不可漏掉 the / 所有格"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "感官動詞（VR 事實全貌 vs. V-ing 進行畫面）",
+          "text": "七大感官動詞（see, watch, look at, hear, listen to, feel, notice）表達透過眼睛、耳朵或觸覺感知到某人「正在做」或「完整做了」某件事，主要有兩種正確補語形式，絕對不可接 to VR：\n1. 感官動詞 ＋ 受詞 ＋ 原形動詞 (VR)：強調親眼目睹或耳聞「動作發生的完整事實或全過程」，也常用於習慣與對等動作。\n   • 例：I watched the stars shine in the dark sky.（我看著星星在夜空閃耀。）\n   • 對等判斷技巧：若句中有 and 連接兩個並列的補語動詞，形式須一致（I saw Tom walk out of the classroom and run away.）。\n2. 感官動詞 ＋ 受詞 ＋ V-ing（現在分詞）：強調當下那一刻「正在進行中」的動作畫面，句中常出現 Look!、Listen! 或「當某人經過時（when...）」的進行背景。\n   • 例：When I passed the music room, I heard someone playing the piano."
+        },
+        {
+          "title": "數量與不定代名詞的單複數決定法則",
+          "text": "第四冊 L4 另一個必考重點是「數量代名詞 ＋ of ＋ 限定詞 ＋ 名詞」當主詞時，後方動詞究竟要配單數還是複數：\n1. 永遠接單數動詞（代表 1 個）：One / Each / Either（兩者之一）/ Neither（兩者皆非）＋ of ＋ the / 所有格 ＋ 複數可數名詞。\n   • 例：Each of the toys in this box belongs to my little brother.（盒裡的每一個玩具都屬於我弟弟。）\n2. 永遠接複數動詞（代表 2 個或多個）：Both / Two / Several / Many ＋ of ＋ the / 所有格 ＋ 複數名詞。\n   • 例：Both of my classmates were chosen for the speech contest.\n3. 視名詞可數性決定單複數的雙面家族：All / Most / Some / Half / None ＋ of ＋ 限定詞（不可省略 the、this/that 或所有格！）＋ 名詞。若名詞不可數（water, money, homework, fruit）配單數動詞；若為可數複數名詞配複數動詞！\n   • 例：Most of the fruit looks fresh, and some of the apples are very sweet."
+        }
+      ],
+      "prompts": [
+        "請觀察這兩個句子：Most of the cheese was eaten. 和 Most of the cookies were eaten. 想一想為什麼同一個 Most of 後面的 be 動詞卻一單一複？"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-05-q1",
+          "question": "I stood at the gate and watched the school bus ________, pick up the students, and leave.",
+          "options": [
+            {
+              "id": "a",
+              "text": "came"
+            },
+            {
+              "id": "b",
+              "text": "to come"
+            },
+            {
+              "id": "c",
+              "text": "come"
+            },
+            {
+              "id": "d",
+              "text": "comes"
+            }
+          ],
+          "answer": "c",
+          "explanation": "watched 為感官動詞，且後面有並列對等動作「, pick up..., and leave」皆為原形動詞 VR，因此空格應填入原形動詞 come。"
+        },
+        {
+          "id": "island-05-q2",
+          "question": "Listen carefully! Can you hear someone ________ the violin in the music room next door?",
+          "options": [
+            {
+              "id": "a",
+              "text": "to play"
+            },
+            {
+              "id": "b",
+              "text": "playing"
+            },
+            {
+              "id": "c",
+              "text": "plays"
+            },
+            {
+              "id": "d",
+              "text": "played"
+            }
+          ],
+          "answer": "b",
+          "explanation": "句首「Listen carefully!」提示動作「此刻正在進行」，感官動詞 hear 強調正在進行的動作須搭配 V-ing（playing），且感官動詞絕不可接 to play。"
+        },
+        {
+          "id": "island-05-q3",
+          "question": "Each of the students in Class 801 ________ ready for the upcoming English storytelling contest.",
+          "options": [
+            {
+              "id": "a",
+              "text": "is"
+            },
+            {
+              "id": "b",
+              "text": "are"
+            },
+            {
+              "id": "c",
+              "text": "were"
+            },
+            {
+              "id": "d",
+              "text": "have been"
+            }
+          ],
+          "answer": "a",
+          "explanation": "句首不定代名詞為 Each（每一個），即使後方接複數名詞 the students，真正主詞仍是單數的 Each，故須搭配單數動詞 is。"
+        },
+        {
+          "id": "island-05-q4",
+          "question": "Most of the homework ________ difficult, so some of the boys ________ asking their teacher for help.",
+          "options": [
+            {
+              "id": "a",
+              "text": "are; is"
+            },
+            {
+              "id": "b",
+              "text": "are; are"
+            },
+            {
+              "id": "c",
+              "text": "is; is"
+            },
+            {
+              "id": "d",
+              "text": "is; are"
+            }
+          ],
+          "answer": "d",
+          "explanation": "Most / Some 等數量詞後面的單複數看 of 後的名詞：homework（功課）為不可數名詞，用單數 is；the boys 為可數複數名詞，用複數 are。"
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "id": "island-06",
+      "name": "鏡像反身星",
+      "group": "代名詞與呼應區",
+      "intro": "熟記八大反身代名詞拼字，掌握「主詞與受詞同人原則」、強調親自用法，以及高頻必考反身片語。",
+      "goal": "能依人稱與單複數精準選出反身代名詞（特別是祈使句對多人的 yourselves），並應用五大反身片語。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "第一、二、三人稱單複數共八個反身代名詞完整拼字",
+        "文法兩大定位：當受詞（主受同人）vs. 當同位語強調（親自）",
+        "會考高頻片語：by oneself / enjoy oneself / help oneself to / make oneself at home"
+      ],
+      "extra": "最大考場陷阱：Boys and girls, enjoy _________! 對「一群人」講祈使句，要用複數 yourselves，不能寫 yourself！",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L5",
+        "反身代名詞",
+        "yourself",
+        "yourselves",
+        "by oneself"
+      ],
+      "comparison": {
+        "title": "八大反身代名詞總覽與必背會考片語表",
+        "headers": [
+          "人稱／類別",
+          "單數反身代名詞",
+          "複數反身代名詞",
+          "常考用法／片語",
+          "例句與易錯提醒"
+        ],
+        "rows": [
+          [
+            "第一人稱（我／我們）",
+            "myself",
+            "ourselves",
+            "make / cook / fix ... oneself（親自）",
+            "I baked the strawberry cake myself."
+          ],
+          [
+            "第二人稱（你／你們）",
+            "yourself",
+            "yourselves",
+            "help oneself to... / make oneself at home",
+            "Boys and girls, help yourselves to the snacks!"
+          ],
+          [
+            "第三人稱男／女／物",
+            "himself / herself / itself",
+            "themselves",
+            "hurt oneself / look at oneself",
+            "注意是 himself 與 themselves，絕無 hisself / theirselves！"
+          ],
+          [
+            "高頻片語：獨自地",
+            "by myself / himself...",
+            "by ourselves / themselves",
+            "by oneself ＝ alone ＝ on one's own",
+            "固定搭介系詞 by，不可寫成 with oneself"
+          ],
+          [
+            "高頻片語：玩得開心",
+            "enjoy myself / herself...",
+            "enjoy ourselves / themselves",
+            "enjoy oneself ＝ have a good time",
+            "Did the kids enjoy themselves at the party?"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "八大反身代名詞與主受同體原則",
+          "text": "反身代名詞字尾在單數為 -self，複數則變為 -selves，對應人稱如下：\n• 第一人稱：myself（我自己）／ ourselves（我們自己）\n• 第二人稱：yourself（你自己）／ yourselves（你們自己）\n• 第三人稱：himself（他自己）／ herself（她自己）／ itself（它自己）／ themselves（他們自己）\n⚠️ 拼字陷阱注意：第三人稱男性是用受格變成的 himself（沒有 hisself），複數是用受格變成的 themselves（沒有 theirselves 或 themself）。\n\n兩大核心文法功用：\n1. 作受詞（主詞與受詞為同一人時必須使用）：當動作發起人與承受者是同一人（如照鏡子、弄傷、教自己、跟自己說話），受詞絕不可只寫一般受格！例：He cut himself while slicing fruit.（他切水果時割傷了自己；若寫 cut him 會變成「割傷另一個男生」）。\n2. 作加強語氣同位語（意為「親自／本人」）：緊接在該名詞／代名詞之後，或放在整個句子的最後方，抽掉也不影響原本句子結構：We cleaned the entire science lab ourselves."
+        },
+        {
+          "title": "必背五大反身片語與祈使句單複數鎖定法",
+          "text": "1. by oneself（獨自地，沒有別人幫忙）：相當於 alone，介系詞固定用 by。例：The little girl tied her shoelaces by herself.\n2. enjoy oneself（玩得開心、享受過程）：相當於 have a good time。\n3. help oneself to ＋ 食物或飲料（請自行取用…，別客氣）。\n4. make oneself at home（請把這裡當自己家一樣，別拘束）。\n5. talk to oneself（自言自語）／ teach oneself（自學）。\n\n⚠️ 會考必殺關鍵：遇到「祈使句」時，句子主詞 you 已經被省略，這時請務必抬頭看句首或句尾的「稱呼語」！若喊單一個人名（Tom, please help yourself to some pie.）用單數 yourself；若對全班或多數人（Students / Everyone / Boys and girls, please make yourselves at home!）必須果斷選出複數 yourselves！"
+        }
+      ],
+      "prompts": [
+        "請考考自己：在「Mom saw him in the mirror.」和「Tom saw himself in the mirror.」兩句話中，鏡子裡出現的分別是誰？"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-06-q1",
+          "question": "Welcome to our class party, boys and girls! Please help ________ to the fruit and juice on the table.",
+          "options": [
+            {
+              "id": "a",
+              "text": "yourself"
+            },
+            {
+              "id": "b",
+              "text": "yourselves"
+            },
+            {
+              "id": "c",
+              "text": "themselves"
+            },
+            {
+              "id": "d",
+              "text": "ourselves"
+            }
+          ],
+          "answer": "b",
+          "explanation": "句中稱呼對象為複數的「boys and girls（各位同學們）」，祈使句省略的主詞是複數的「你們」，因此應使用複數反身代名詞 yourselves。"
+        },
+        {
+          "id": "island-06-q2",
+          "question": "Nobody helped Peter fix his broken bicycle; he repaired it all ________.",
+          "options": [
+            {
+              "id": "a",
+              "text": "on himself"
+            },
+            {
+              "id": "b",
+              "text": "with himself"
+            },
+            {
+              "id": "c",
+              "text": "by himself"
+            },
+            {
+              "id": "d",
+              "text": "for hisself"
+            }
+          ],
+          "answer": "c",
+          "explanation": "表達「獨自、靠自己不靠他人幫忙」的固定片語是 by oneself，Peter 為男性單數，故選 by himself；英文無 hisself 拼法。"
+        },
+        {
+          "id": "island-06-q3",
+          "question": "Before going on stage, Lucy looked at ________ in the mirror, took a deep breath, and smiled.",
+          "options": [
+            {
+              "id": "a",
+              "text": "herself"
+            },
+            {
+              "id": "b",
+              "text": "her"
+            },
+            {
+              "id": "c",
+              "text": "hers"
+            },
+            {
+              "id": "d",
+              "text": "she"
+            }
+          ],
+          "answer": "a",
+          "explanation": "主詞 Lucy 看鏡中的自己，動作發出者與承受者為同一人，受詞必須使用反身代名詞 herself。"
+        },
+        {
+          "id": "island-06-q4",
+          "question": "All the students had a wonderful field trip and really enjoyed ________ at the space museum.",
+          "options": [
+            {
+              "id": "a",
+              "text": "them"
+            },
+            {
+              "id": "b",
+              "text": "theirselves"
+            },
+            {
+              "id": "c",
+              "text": "himself"
+            },
+            {
+              "id": "d",
+              "text": "themselves"
+            }
+          ],
+          "answer": "d",
+          "explanation": "片語 enjoy oneself 表「玩得開心」，主詞為複數 All the students，應配合複數反身代名詞 themselves（絕不可寫 theirselves）。"
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "id": "island-07",
+      "name": "邏輯星門島",
+      "group": "句構與邏輯區",
+      "intro": "解析 that 名詞子句（受詞可省 vs. 主詞不可省與虛主詞 It），並掌握讓步 Although 與條件 if 的複句鐵律。",
+      "goal": "能正確判斷 that 引導子句是否可省略、避開 Although 與 but 並用錯誤，並寫對 if 條件句的時態搭配。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "that 名詞子句雙位置：當受詞時 that 可省略；當真主詞放句首時 that 絕不可省（或改用虛主詞 It）",
+        "讓步連接詞 Although / Though 絕不與 but 同時出現在同一句（because 亦絕不與 so 連用）",
+        "條件連接詞 if（如果）副詞子句以「現在簡單式」代替未來式"
+      ],
+      "extra": "英文複句雙天王鐵則：一個完整句子只能用「一個連接詞」把兩件事接起來，不可出現「雖然…但是…」或「因為…所以…」兩個人同時站台！",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L5",
+        "L6",
+        "名詞子句",
+        "Although",
+        "if"
+      ],
+      "comparison": {
+        "title": "名詞子句與複句連接詞鐵律對照表",
+        "headers": [
+          "子句／連接詞類型",
+          "核心結構公式",
+          "關鍵限制／省略規則",
+          "正確例句",
+          "會考常見誤區"
+        ],
+        "rows": [
+          [
+            "that 受詞子句",
+            "S + V + (that) + S + V",
+            "放在及物動詞（think / know / hope）後，that 可省略",
+            "I believe (that) she is honest.",
+            "無明顯省略陷阱，注意內部時態呼應"
+          ],
+          [
+            "that 主詞子句 & 虛主詞",
+            "That + S + V ＋ 單數V / It is adj. + that...",
+            "放句首當主詞時 that 不可省！整串子句配單數動詞",
+            "That Sam lied is true. ＝ It is true that Sam lied.",
+            "句首漏寫 That 或誤用複數動詞"
+          ],
+          [
+            "讓步連接詞",
+            "Although / Though S1 + V1, S2 + V2",
+            "絕不可再寫 but（兩者只能擇一留用）",
+            "Although it rained, we still went camping.",
+            "受中文翻譯幹擾寫出 Although..., but..."
+          ],
+          [
+            "條件連接詞（表未來）",
+            "If + S1 + 現在簡單式, S2 + will / 祈使句",
+            "「如果」副詞子句用現在式代替未來式",
+            "If it doesn't rain tomorrow, I will go hiking.",
+            "把 If it will not rain... 當成正確答案"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "that 引導名詞子句（當受詞 vs. 當主詞）",
+          "text": "當我們想把「一整句話」當成名詞放進另一句話裡，最萬用的包裝盒就是連接詞「that（無實義，僅起引導功能）」：\n1. 當受詞使用（that 可省略）：常接在 think, believe, hope, know, say, hear, agree 等認知或傳達動詞之後，以及 be sure / be afraid / be happy 等形容詞之後。例：I know (that) you tried your best.\n2. 當主詞使用（that 絕對不可省略！）：當一整句話放在句首當主角時，必須保留 That 開頭以提醒讀者這是一段名詞子句，而且「一件事」當主詞時後面永遠搭配「單數動詞」！\n   • 原句：That he won first prize in the contest surprised everyone.\n   • 虛主詞 It 轉換（英文更偏好頭輕腳重）：為了避免開頭太冗長，常把 It 擺在句首當形式主詞，再把整個 that 子句移到句尾：「It surprised everyone that he won first prize in the contest.」或「It is important that we drink enough water every day.」。"
+        },
+        {
+          "title": "讓步 Although / Though 與條件 if 的兩大黃金守則",
+          "text": "1. 一個句子只要一個連接詞（拒絕中式雙連字）：\n   • 中文習慣說「雖然…但是…」，但在英文裡，「Although / Though（雖然）」與「but（但是）」功能已包含對立語氣，兩者絕不可同時出現在同一個句子裡！同理，because（因為）與 so（所以）也只能選一邊留下。\n   • 正確：Although Jenny studied very hard, she didn't pass the test. 或 Jenny studied very hard, but she didn't pass the test.\n2. 「現在代未來」條件鐵則：\n   • 當 if 表「如果（條件）」、when / before / after 表未來時間引導副詞子句時，儘管句子講明天或下週（如 tomorrow, next weekend），副詞子句內一律用「現在簡單式」代替未來式；主要子句則正常使用未來式 will 或祈使句！\n   • 例：If Zack has enough time tomorrow afternoon, he will help us paint the wall.\n   • 進階提醒：若 if / whether 翻譯成「是否（名詞子句）」，放在 ask / wonder / don't know 後面當受詞，則該用未來式就照實寫未來式（I wonder if he will come tomorrow.）。"
+        }
+      ],
+      "prompts": [
+        "請找出這句話的唯一錯誤並改寫正確：「Although he was very tired last night, but he still finished his English report.」"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-07-q1",
+          "question": "________ Jenny practiced the song for hours every day, she still felt nervous before the show.",
+          "options": [
+            {
+              "id": "a",
+              "text": "But"
+            },
+            {
+              "id": "b",
+              "text": "Although"
+            },
+            {
+              "id": "c",
+              "text": "So"
+            },
+            {
+              "id": "d",
+              "text": "Because"
+            }
+          ],
+          "answer": "b",
+          "explanation": "前句「每天練唱數小時」與後句「表演前仍感到緊張」語意對比讓步，且後半句未出現 but，故句首選用連接詞 Although（雖然）。"
+        },
+        {
+          "id": "island-07-q2",
+          "question": "If Zack ________ free time tomorrow afternoon, he will visit his grandparents with his sister.",
+          "options": [
+            {
+              "id": "a",
+              "text": "has"
+            },
+            {
+              "id": "b",
+              "text": "will have"
+            },
+            {
+              "id": "c",
+              "text": "had"
+            },
+            {
+              "id": "d",
+              "text": "is having"
+            }
+          ],
+          "answer": "a",
+          "explanation": "If 表「如果」引導條件副詞子句時，雖然有 tomorrow，仍必須以「現在簡單式代替未來式」，第三人稱單數 Zack 搭配 has。"
+        },
+        {
+          "id": "island-07-q3",
+          "question": "It is clear ________ drinking enough clean water every day helps us stay healthy.",
+          "options": [
+            {
+              "id": "a",
+              "text": "what"
+            },
+            {
+              "id": "b",
+              "text": "if"
+            },
+            {
+              "id": "c",
+              "text": "that"
+            },
+            {
+              "id": "d",
+              "text": "whether"
+            }
+          ],
+          "answer": "c",
+          "explanation": "本句為虛主詞結構「It is + 形容詞 + that + 完整名詞子句」，後方子句語意與結構已完整，須由無實義的連接詞 that 引導真主詞。"
+        },
+        {
+          "id": "island-07-q4",
+          "question": "________ Sam won first prize in the science fair surprised all the teachers in his school.",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because"
+            },
+            {
+              "id": "b",
+              "text": "What"
+            },
+            {
+              "id": "c",
+              "text": "Which"
+            },
+            {
+              "id": "d",
+              "text": "That"
+            }
+          ],
+          "answer": "d",
+          "explanation": "「Sam 在科展獲得第一名這件事」結構完整，放在句首擔任整個句子的主詞（配單數動詞 surprised）時，必須由連接詞 That 引導且絕對不可省略。"
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "id": "island-08",
+      "name": "迴響問句星",
+      "group": "句構與邏輯區",
+      "intro": "掌握第四冊 L6 附加問句（Tag Questions）四大基本鐵律、否定副詞陷阱以及五大特殊句型速記表。",
+      "goal": "能瞬間判斷時態助動詞、主詞人稱代名詞轉換，並避開 never/seldom、has to、Everyone 與祈使句陷阱。",
+      "goalLabel": "本星站學習目標",
+      "points": [
+        "四大鐵律：前肯後否（前否後肯）、時態與助動詞一致、主詞一律轉人稱代名詞",
+        "隱形否定詞辨識：never / seldom / hardly / few / little / nothing → 後接「肯定」附加問句",
+        "五大必背特殊型：Let's..., shall we? / 祈使句..., will you? / I am..., aren't I? / Everyone..., they? / have to..., do?"
+      ],
+      "extra": "看到 has 一定要看後面是不是接過去分詞！如果寫 has to / has dinner，這個 has 是一般動詞，附加問句要用 doesn't（過去式 had to 要用 didn't），不能寫 hasn't！",
+      "link": "",
+      "material": "",
+      "aliases": [
+        "L6",
+        "附加問句",
+        "tag questions",
+        "shall we",
+        "seldom"
+      ],
+      "comparison": {
+        "title": "附加問句四大基本原則與五大特殊句型速查表",
+        "headers": [
+          "句型類別",
+          "前句特徵 / 主詞",
+          "後方附加問句形式",
+          "正確例句",
+          "超級易錯提醒"
+        ],
+        "rows": [
+          [
+            "基本前肯後否／一般動詞",
+            "He is... / She didn't...",
+            "be ↔ be / 一般動詞 ↔ do, does, did",
+            "Tom didn't go there, did he?",
+            "注意動詞為過去式時前句用過去形（如 read / put / cut）要配 did"
+          ],
+          [
+            "have to vs. 完成式 have",
+            "Amy has to go... / Amy has been...",
+            "has to 用 doesn't / 完成式用 hasn't",
+            "Amy has to study hard, doesn't she?",
+            "看到 has 先看後方：接名詞/to VR→用 do 族！"
+          ],
+          [
+            "隱形否定詞判定",
+            "never / seldom / hardly / few / little",
+            "前句視為否定 → 後方用「肯定」！",
+            "He seldom eats fast food, does he?",
+            "名詞沒看到 not 也算否定！但 a few / a little 是肯定"
+          ],
+          [
+            "不定代名詞與事物指示詞",
+            "Everyone / Nobody / Nothing / This",
+            "人（everyone...）→ they；物/this → it",
+            "Everyone had a great time, didn't they?",
+            "前句動詞用單數，但附加問句人稱主詞改用複數 they！"
+          ],
+          [
+            "祈使句與特別開頭",
+            "Let's... / 祈使句 / I am...",
+            "shall we? / will you? / aren't I?",
+            "Let's go, shall we? / I am right, aren't I?",
+            "Let us（表請求允許）與一般祈使句（含否定）都用 will you?"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "附加問句四大黃金基本原則",
+          "text": "附加問句加在直述句尾端，用來向對方確認「…對嗎？／…是不是？」。解題照著這四個步驟絕不失分：\n1. 前肯後否、前否後肯（極性相反）：前句是肯定敘述，後面用否定縮寫（isn't / doesn't / didn't / won't / can't，注意附加問句的否定詞一律需縮寫！）；前句是否定敘述，後面改用肯定（is / does / did）。\n2. 動詞與時態一致：\n   • 前句有 be 動詞（am / is / are / was / were），直接沿用對應 be 動詞。\n   • 前句有情態助動詞（can / will / should / would）或現在完成式（have / has ＋ Vpp），直接沿用助動詞。\n   • 前句為一般動詞（包含 have to ＋ VR「必須」、have a party 等一般實義用法！），必須派出助動詞 do / does / did。小陷阱：put / cut / read 三態同形，主詞為第三人稱單數且動詞卻沒加 s 時（He read the book），代表它是過去式，附加問句要用 didn't he!\n3. 主詞一律改寫為「人稱代名詞」：只准出現 I, you, he, she, it, we, they（例外只有 There is / are... 保留 there：There is a park nearby, isn't there?）。若前句主詞為 this / that 或動名詞／不定詞片語，後面全部改寫為 it；these / those 改寫為 they！\n4. 隱形否定詞警告：直述句中只要出現 never（從不）、seldom（很少）、hardly（幾乎不）、few / little（極少，注意不可有 a）、nothing / nobody / no one 時，整個前句已屬否定，後面附加問句必須用「肯定」！"
+        },
+        {
+          "title": "五大特殊附加問句與「事實導向」答法",
+          "text": "除了四大原則之外，以下五種特殊開頭在國中段考與會考出現頻率極高，建議直接秒記：\n1. Let's ＋ VR..., shall we?（邀請「我們一起…」固定配 shall we?）\n2. 一般祈使句（包含 Don't... 與 Let us ＋ VR...）, will you?（肯定祈使句可用 will / won't you，否定祈使句只可用 will you?，測驗選 will you 最穩當！）\n3. I am..., aren't I?（因沒有 amn't I 的縮寫，固定配 aren't I?；但否定 I am not..., am I? 照正常用 am I!）\n4. Everyone / Everybody / Someone / Nobody 當主詞：後面接「they」！（例：Nobody called this morning, did they?）；若是 Everything / Nothing 指事物時，後面改用「it」！\n5. 回答附加問句以「事實是做過還是沒做」決定 Yes/No，千萬別被中文翻譯「對／不是」牽著走！只要事實「是肯定（對，他有去）」就答 Yes, he did.；只要事實「是否定（沒有，他沒去）」就答 No, he didn't."
+        }
+      ],
+      "prompts": [
+        "請同學自己檢查下面這題：「You have never been to Japan, ________?」記得先找有沒有隱形否定詞，再看 have 後面有沒有接過去分詞！"
+      ],
+      "promptTitles": [
+        "考前自檢與造句提示"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-08-q1",
+          "question": "Amy has to hand in her science report tomorrow morning, ________?",
+          "options": [
+            {
+              "id": "a",
+              "text": "hasn't she"
+            },
+            {
+              "id": "b",
+              "text": "isn't she"
+            },
+            {
+              "id": "c",
+              "text": "doesn't she"
+            },
+            {
+              "id": "d",
+              "text": "does she"
+            }
+          ],
+          "answer": "c",
+          "explanation": "has to（必須）屬於一般現在式動詞片語，而非完成式「has + Vpp」，因此直述句肯定須用一般動詞第三人稱單數的否定助動詞 doesn't she。"
+        },
+        {
+          "id": "island-08-q2",
+          "question": "Jack seldom drinks coffee late at night because he wants to sleep well, ________?",
+          "options": [
+            {
+              "id": "a",
+              "text": "doesn't he"
+            },
+            {
+              "id": "b",
+              "text": "does he"
+            },
+            {
+              "id": "c",
+              "text": "did he"
+            },
+            {
+              "id": "d",
+              "text": "isn't he"
+            }
+          ],
+          "answer": "b",
+          "explanation": "句中有否定副詞 seldom（很少），因此前半句視為「否定句」，後方附加問句必須改用「肯定」；drinks 為現在簡單式，故選 does he。"
+        },
+        {
+          "id": "island-08-q3",
+          "question": "Everyone in Class 801 loves that cute class pet, ________?",
+          "options": [
+            {
+              "id": "a",
+              "text": "don't they"
+            },
+            {
+              "id": "b",
+              "text": "doesn't he"
+            },
+            {
+              "id": "c",
+              "text": "isn't it"
+            },
+            {
+              "id": "d",
+              "text": "do they"
+            }
+          ],
+          "answer": "a",
+          "explanation": "不定代名詞 Everyone / Everybody 指「人們」，雖然前句配單數動詞 loves，附加問句主詞規定改為複數代名詞 they，故選用搭配 they 的助動詞 don't they。"
+        },
+        {
+          "id": "island-08-q4",
+          "question": "We have practiced for two hours. Let's take a short break and drink some water, ________?",
+          "options": [
+            {
+              "id": "a",
+              "text": "will you"
+            },
+            {
+              "id": "b",
+              "text": "don't we"
+            },
+            {
+              "id": "c",
+              "text": "won't we"
+            },
+            {
+              "id": "d",
+              "text": "shall we"
+            }
+          ],
+          "answer": "d",
+          "explanation": "「Let's + VR...」表邀請大家一起做某事的建議祈使句，後方附加問句固定搭配 shall we。"
+        }
+      ]
+    }
+  ],
+  "residents": [
+    {
+      "id": "resident-01",
+      "name": "粉紅偶像",
+      "island": "island-01",
+      "concept": "不規則比較級與修飾語",
+      "text": "不規則比較級與修飾語：good/well 的比較級是 better、最高級是 best；要強調「好得多」，只能用 much / even / a lot / far / a little 修飾比較級，千萬別寫 very better 喔！",
+      "topic": 0
+    },
+    {
+      "id": "resident-09",
+      "name": "臭臭班寵",
+      "island": "island-01",
+      "concept": "可數 fewer 與不可數 less",
+      "text": "可數 fewer 與不可數 less：數得出來像 pencils、apples 要用 fewer than；像 water、money、time 數不出來的不可數名詞，比較少才用 less than，考前要先看名詞能不能數！",
+      "topic": 1
+    },
+    {
+      "id": "resident-02",
+      "name": "粉蝶女孩",
+      "island": "island-02",
+      "concept": "連綴動詞 ＋ 形容詞鐵律",
+      "text": "連綴動詞 ＋ 形容詞鐵律：五大感官 look / sound / smell / taste / feel 單獨出現時只能接形容詞（如 tastes good、feels soft）；想要接名詞就一定要請好朋友 like 來幫忙！",
+      "topic": 0
+    },
+    {
+      "id": "resident-10",
+      "name": "綠帽書生",
+      "island": "island-02",
+      "concept": "look vs. look at 辨析",
+      "text": "look vs. look at 辨析：He looks happy. 沒有受詞，是「看起來開心（連綴動詞＋adj.）」；He looked happily at the gift. 有受詞表示動作「看」，就要改用副詞 happily 修飾動作！",
+      "topic": 1
+    },
+    {
+      "id": "resident-03",
+      "name": "音速飛船",
+      "island": "island-03",
+      "concept": "形容詞轉副詞規則與例外",
+      "text": "形容詞轉副詞規則與例外：fast / hard / early / late 形副同形千萬不要亂加 -ly！另外 good 變副詞是 well，hardly 則是「幾乎不」，差兩個字母意思就全反過來囉！",
+      "topic": 0
+    },
+    {
+      "id": "resident-11",
+      "name": "節拍隊長",
+      "island": "island-03",
+      "concept": "副詞比較級與最高級用法",
+      "text": "副詞比較級與最高級用法：看到修飾一般動詞的副詞要比較時，-ly 副詞前面一律放 more / the most（more carefully / the most slowly），而且副詞不可插在及物動詞與受詞中間！",
+      "topic": 1
+    },
+    {
+      "id": "resident-04",
+      "name": "指令中控",
+      "island": "island-04",
+      "concept": "使役動詞受詞＋原形VR",
+      "text": "使役動詞受詞＋原形VR：make、have、let 這三位星際指令長官下令時，後面直接接原形動詞 VR！想要否定某個動作，直接在原形前加 not（not play），千萬別放進 don't 或 to！",
+      "topic": 0
+    },
+    {
+      "id": "resident-12",
+      "name": "助推精靈",
+      "island": "island-04",
+      "concept": "help/tell/ask 接 to VR 差異",
+      "text": "help/tell/ask 接 to VR 差異：help 很彈性，(to) VR 都可以；但 tell、ask、want、order 不是使役動詞，一定要帶上完整的不定詞 to VR（如 tell me not to run）才對喔！",
+      "topic": 1
+    },
+    {
+      "id": "resident-05",
+      "name": "望遠鏡官",
+      "island": "island-05",
+      "concept": "感官動詞 VR 與 V-ing 差異",
+      "text": "感官動詞 VR 與 V-ing 差異：看到 see、watch、hear、feel 別選 to VR！看到完整動作或有 and 並列時選 VR；遇到 Listen! / Look! 強調此刻正在發生的畫面時，優先選 V-ing！",
+      "topic": 0
+    },
+    {
+      "id": "resident-13",
+      "name": "閃爍星探",
+      "island": "island-05",
+      "concept": "數量代名詞單複數一致性",
+      "text": "數量代名詞單複數一致性：One / Each / Either / Neither 永遠單數；Most / Some / All 則像變色龍一樣，跟著 of 後面名詞的單複數（或不可數）走，同時別漏了限定詞 the 或所有格！",
+      "topic": 1
+    },
+    {
+      "id": "resident-06",
+      "name": "鏡面戰士",
+      "island": "island-06",
+      "concept": "反身代名詞主受同體原則",
+      "text": "反身代名詞主受同體原則：只要主詞和受詞指向同一個人（照鏡子、傷到自己），就一定要派出反身代名詞 -self/-selves！還要注意祈使句喊全班同學時要用複數 yourselves！",
+      "topic": 0
+    },
+    {
+      "id": "resident-14",
+      "name": "好棒棒姐",
+      "island": "island-06",
+      "concept": "by oneself 與常考片語",
+      "text": "by oneself 與常考片語：「獨自」固定是 by oneself、「請自便享用」是 help oneself to...、「玩得愉快」是 enjoy oneself，全部都要注意人稱與單複數變化，背起來就送分啦！",
+      "topic": 1
+    },
+    {
+      "id": "resident-07",
+      "name": "星門領航",
+      "island": "island-07",
+      "concept": "Although 絕不與 but 連用",
+      "text": "Although 絕不與 but 連用：通過星門只准帶一張通行證！寫了 Although 就別寫 but；看到 If 表「如果」遇到 tomorrow 也要把 will 收起來改用現在簡單式；名詞子句放句首當主詞則絕對不可漏掉 That！",
+      "topic": 0
+    },
+    {
+      "id": "resident-08",
+      "name": "迴響通訊",
+      "island": "island-08",
+      "concept": "附加問句否定詞與特殊型",
+      "text": "附加問句否定詞與特殊型：前肯後否、前否後肯！記得抓出 never / seldom 這些偽裝肯定的否定詞，還有 has to 配 doesn't、Let's 配 shall we? 以及 Everyone 後改配 they！",
+      "topic": 0
+    }
+  ]
+}
